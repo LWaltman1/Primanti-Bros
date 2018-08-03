@@ -4,13 +4,13 @@
 <a href="https://www.yelp.com/biz/primanti-bros-pittsburgh-15?osq=Primanti+Bros">Primanti Brothers Strip District Yelp</a></p>
 
 
-<p> Data visulizations were created using the following tools:</p>
+<p> Data visulizations were created using the following tools:
 <ul>
 <li>Timeline:<br />
 <a href="https://timeline.knightlab.com/">Timeline JS</a> and <a href="https://docs.google.com/spreadsheets/d/1EAdIh0fSyt0EHODmG3AojRpUlt_kmyrxVkbCpqmMRVo/edit?usp=sharing">Google Sheets</a></li>
 
-Word Clouds:
-<a href="https://voyant-tools.org/">Voyant Tools</a>
+<li>Word Clouds:<br />
+<a href="https://voyant-tools.org/">Voyant Tools</a></li>
 
-Charts and Graphs:
-<a href="https://public.tableau.com/en-us/s/">Tableau Public</a>
+<li>Charts and Graphs:<br />
+<a href="https://public.tableau.com/en-us/s/">Tableau Public</a></li></p>
