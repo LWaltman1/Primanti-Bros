@@ -1,7 +1,7 @@
 # Primanti-Bros
 
-<p>Data for this project was collected from Yelp:</p>
-<a href="https://www.yelp.com/biz/primanti-bros-pittsburgh-15?osq=Primanti+Bros">Primanti Brothers Strip District Yelp</a>
+<p>Data for this project was collected from Yelp:
+<a href="https://www.yelp.com/biz/primanti-bros-pittsburgh-15?osq=Primanti+Bros">Primanti Brothers Strip District Yelp</a></p>
 
 
 <p> Data visulizations were created using the following tools:</p>
