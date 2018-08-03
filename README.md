@@ -3,6 +3,8 @@
 <p>Data for this project was collected from Yelp:<br />
 <a href="https://www.yelp.com/biz/primanti-bros-pittsburgh-15?osq=Primanti+Bros">Primanti Brothers Strip District Yelp</a></p>
 
+<p>A project journal documenting the two iterations can be found at: <a href="https://draftin.com/folders/45623">https://draftin.com/folders/45623</a></p>
+
 <p> Data visulizations were created using the following tools:
 <ul>
 <li>Timeline<br />
