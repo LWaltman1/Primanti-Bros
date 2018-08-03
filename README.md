@@ -6,7 +6,7 @@ Yelp Data:
 <p> Data visulizations were created using the following tools:</p>
 
 Timeline:
-<a href="https://timeline.knightlab.com/">Timeline JS</a>
+<a href="https://timeline.knightlab.com/">Timeline JS</a> and <a href="https://docs.google.com/spreadsheets/d/1EAdIh0fSyt0EHODmG3AojRpUlt_kmyrxVkbCpqmMRVo/edit?usp=sharing">Google Sheets</a>
 
 Word Clouds:
 <a href="https://voyant-tools.org/">Voyant Tools</a>
