@@ -4,6 +4,7 @@ Yelp Data:
 <a href="https://www.yelp.com/biz/primanti-bros-pittsburgh-15?osq=Primanti+Bros">Primanti Brothers Strip District Yelp</a>
 
 <p> Data visulizations were created using the following tools:</p>
+
 Timeline:
 <a href="https://timeline.knightlab.com/">Timeline JS</a>
 
